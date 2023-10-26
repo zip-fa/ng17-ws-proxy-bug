@@ -1,0 +1,9 @@
+{
+  "/v3/channel_123/*": {
+    "target": "https://demo.piesocket.com",
+    "ws": true,
+    "secure": false,
+    "changeOrigin": true,
+    "logLevel": "debug"
+  }
+}
